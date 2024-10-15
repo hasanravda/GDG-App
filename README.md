@@ -1,21 +1,40 @@
-<<<<<<< HEAD
-# GDG-App
-This repo contains flutter source of the task given by GDG (GDSC) to develop Flutter App UI.
-=======
-# gdg_app
+# GDG App
 
-A new Flutter project.
+This repo contains the task given by GDG (GDSC) on campus, DDU Nadiad to develop UI for Mobile app using Flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features / UI 
 
-A few resources to get you started if this is your first Flutter project:
+- **User Authentication**: 
+  - Sign up page for new accounts.
+  - LogIn to existing accounts.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Home Page**: 
+  - Displays relevant updates and events.
+  - Contains a side drawer for easy navigation.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 3321902 (Completed UI of app)
+- **Side Drawer Navigation**: 
+  - Access different sections of the app, including Profile, About Us, and more.
+
+
+## Screenshots
+
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/hasanravda/GDG-App.git
+
+2. **Navigate to directory**:
+   ```bash
+   cd GDG-App
+
+3. **Install dependencies**:
+   ```bash
+   flutter pub get
+
+4. **RUN**
+    ```bash
+   flutter run
+
