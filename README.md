@@ -18,6 +18,10 @@ This repo contains the task given by GDG (GDSC) on campus, DDU Nadiad to develop
 
 
 ## Screenshots
+![HomePage](https://github.com/user-attachments/assets/56a6ea6e-e9a2-40ea-88cf-4bdbb9051c06)
+![login](https://github.com/user-attachments/assets/151b4f19-3e08-48c5-b639-57f1a9e0f87f)
+![SideDrawer](https://github.com/user-attachments/assets/e19ae15d-98cb-4d07-a6d4-b3b9251a44d7)
+![signup](https://github.com/user-attachments/assets/a5ff39a0-a6ef-4d55-84a9-7140587571b7)
 
 
 ## Installation
